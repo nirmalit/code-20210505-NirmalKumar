@@ -1,0 +1,16 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "BMI evaluator",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true",
+    "start":"npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
